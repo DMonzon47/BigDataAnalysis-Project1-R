@@ -1,4 +1,4 @@
-# BigDataAnalysis-Project1-R
+# BigDataAnalysis-Project1-R Grade achieved: 97%
 Big Data Analysis 1 (Using R):
 •	Solving statistical theoretical problems (e.g. Bayes’ rule and performance of flexible models).
 •	Analysis of datasets and creation of ML linear and logistic regression using varying features.
